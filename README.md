@@ -4,6 +4,7 @@
 # About Wordle
 Wordle is a popular word puzzle game that challenges players to guess a secret five-letter word within six attempts. Players make guesses, receive feedback on their guesses, and use deduction and word knowledge to solve the puzzle.
 
+![Wordle Game](https://github.com/Saeedam02/Python-Pytopia-Wordle/blob/main/images/wordle.jpg)
 # Repository Purpose
 This GitHub repository is dedicated to the development and hosting of the Wordle game. Whether you want to play the game, contribute to its development, or simply explore the code behind it, you've come to the right place.
 
