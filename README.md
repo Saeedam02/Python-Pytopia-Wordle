@@ -23,5 +23,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # Acknowledgments
 A special thanks to the creators of the original Wordle game for the inspiration behind this project.
 
+# Source
+This course and other useful courses in the data science field are available at https://www.pytopia.ai/
+
 Happy Wordling!
 
